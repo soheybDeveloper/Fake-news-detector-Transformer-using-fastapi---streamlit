@@ -2,4 +2,4 @@
 
 <video src="Screencast%20from%202023-06-30%2016-22-48.mp4" controls="controls" style="max-width: 730px;">
 </video>
-[Watch the video](Screencast%20from%202023-06-30%2016-22-48.mp4)
+![Watch the video](Screencast%20from%202023-06-30%2016-22-48.mp4)
